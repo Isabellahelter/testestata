@@ -1,8 +1,0 @@
-v 1
-d 'BD_DOWNLOAD': basedosdados
-d 
-d Distribution-Date:   20211225
-d License: The Unlicense
-d 
-F bd_download.ado
-F bd_download.sthlp
