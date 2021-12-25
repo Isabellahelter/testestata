@@ -15,6 +15,7 @@ F bd_list_dataset_tables.ado
 F bd_list_dataset_tables.sthlp
 F bd_list_datasets.ado
 F bd_list_datasets.sthlp
+F bd_read_sql.ado
 F bd_read_sql.sthlp
 F bd_read_table.ado
 F bd_read_table.sthlp
